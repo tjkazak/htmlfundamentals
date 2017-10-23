@@ -7,3 +7,17 @@
 .largeBorder{
 	border: 10px solid red;
 }
+.greenBackground{
+	background-color: green;
+}
+.redBackground{
+	background-color: red;
+	float: left;
+	width: 70%
+}
+.yellowBackground{
+	background-color: yellow;
+	/*overflow: hidden;*/
+	width: 30%;
+	float: right;
+}
