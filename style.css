@@ -1,0 +1,9 @@
+.blueBackground{
+	background-color: cornFlowerBlue;
+}
+.smallBorder{
+	border: 2px solid black;
+}
+.largeBorder{
+	border: 10px solid red;
+}
